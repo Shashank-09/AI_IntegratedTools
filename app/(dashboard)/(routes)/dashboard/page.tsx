@@ -41,6 +41,13 @@ const tools = [
     bgColor: "bg-green-500/10",
     href: "/code"
   },
+  {
+    label: "Video Generation 2.0",
+    icon: Video,
+    color: "text-orange-500",
+    bgColor: "bg-orange-500/10",
+    href: "/video2.0"
+  },
 ]
 
 
